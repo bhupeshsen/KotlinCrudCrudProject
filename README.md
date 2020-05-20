@@ -1,2 +1,3 @@
 # KotlinCrudCrudProject
-![](images/screen1.jpeg)
+![](screen1.jpeg)
+![](screen2.jpeg)
