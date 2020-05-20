@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlineCrudDemo</string>
+
+    <string name="baseurl">http://bhssolution.com/data/api/kotlinapi/</string>
+</resources>
